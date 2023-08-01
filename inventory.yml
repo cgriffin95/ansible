@@ -1,0 +1,11 @@
+[ubuntu-test]
+192.168.0.91
+192.168.0.13
+
+[docker]
+
+[webservers]
+
+[all:vars]
+ansible_ssh_pass=Gu5Fatte
+ansible_become_pass=Gu5Fatte
