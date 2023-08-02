@@ -7,5 +7,5 @@
 [webservers]
 
 [all:vars]
-ansible_ssh_pass=Gu5Fatte
-ansible_become_pass=Gu5Fatte
+#ansible_ssh_pass=Gu5Fatte
+#ansible_become_pass=Gu5Fatte
